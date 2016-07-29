@@ -1,9 +1,9 @@
 class Hello
 {
-	public static void main(string[] hello)
+	public static void main(String[] hello)
 	{
-		Final Integer n=5;
+		Integer n=5;
 		for(int i=0;i<=n;i++)
-		system.out.println("HELLO");
+		System.out.println("HELLO");
 	}
 }
